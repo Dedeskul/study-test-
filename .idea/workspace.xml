@@ -60,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582117773969</updated>
-      <workItem from="1582117775647" duration="3419000" />
+      <workItem from="1582117775647" duration="3813000" />
     </task>
     <task id="LOCAL-00001" summary="to do app">
       <created>1582135686453</created>
@@ -69,11 +69,36 @@
       <option name="project" value="LOCAL" />
       <updated>1582135686453</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="to do app">
+      <created>1582135824463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582135824463</updated>
+    </task>
+    <task id="LOCAL-00003" summary="to do app">
+      <created>1582135879841</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582135879841</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="to do app" />
@@ -84,14 +109,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1582117955758" />
-    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1582135824142">
+    <state x="312" y="0" key="CommitChangelistDialog2" timestamp="1582135879580">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="312" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582135824142" />
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1582135860420">
+    <state x="312" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1582135879580" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2" timestamp="1582135907168">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582135860420" />
+    <state x="320" y="186" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1582135907168" />
     <state x="508" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582135723124">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
